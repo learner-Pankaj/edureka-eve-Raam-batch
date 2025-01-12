@@ -1,2 +1,2 @@
-<h1> Jenkins Maven integration demo <h1>
+<h1> Jenkins Maven integration v1.1 demo <h1>
 
