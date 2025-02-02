@@ -1,2 +1,3 @@
-<h1> CI/CD pipeline demo on 02022025 <h1>
+<h1> CI/CD pipeline <h1>
+<h2> Demo on 02/02/2025 </h2>
 
